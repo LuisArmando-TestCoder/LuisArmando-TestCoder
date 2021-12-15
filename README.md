@@ -4,9 +4,9 @@
 
 I 💘 create ***3D*** for the ***Web***
 
-And believe on the impact of web builders, and dream on the impact of cross device 3D website builders.
+I dream on the impact of 3D website builders.
 
-We need to optimize our interactions with information.
+Also, I am crazy about automation.
 
 ## More About 🧔 👈
 
