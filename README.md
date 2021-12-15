@@ -12,7 +12,7 @@ Also, I am crazy about ***automation***, easy to use ***builder tools*** and ***
 
 🔭 I’m currently working on an ecosystem of tools ([library](https://www.npmjs.com/package/scene-preset) and [framework](https://github.com/LuisArmando-TestCoder/three-nextjs)) to ease the development of 3D scenes on the web for everybody to use
 
-## Tools 🛠
+## Tools and Skills 🛠
 | 🍓 | 🍍 | 🍉 | 🍊 | 🥝 |
 |---|---|---|---|---|
 | GLSL | Three.js | Unreal Engine 5 | Unity | Game Maker Studio 2 |
@@ -21,4 +21,5 @@ Also, I am crazy about ***automation***, easy to use ***builder tools*** and ***
 | React.js | Vue.js | Gatsby | Next.js | Recoil.js |
 | Victor.js | Canvas | GLSL | GSAP | Google Analytics |
 | Node.js | GraphQL | Express | MongoDB | Socket.io |
-| Git | FL Studio | Illustrator | Figma | Writing |
+| Git | Jira | FL Studio | Illustrator | Figma |
+| Writing | Teaching | Listening | Thinking | Helping |
