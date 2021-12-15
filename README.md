@@ -6,7 +6,7 @@ I 💘 create ***3D*** for the ***Web***
 
 I dream on the impact of 3D website builders.
 
-Also, I am crazy about automation and easy to use bulder tools
+Also, I am crazy about automation and easy to use builder tools
 
 ## More About 🧔 👈
 
