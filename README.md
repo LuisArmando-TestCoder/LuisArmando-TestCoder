@@ -6,11 +6,11 @@ I 💘 create ***3D*** for the ***Web***
 
 And believe on the impact of web builders, and dream on the impact of cross device 3D website builders. We humans, need to optimize our interactions with massive amounts of information
 
-### More About 🧔 👈:
+### More About 🧔 👈
 
 🔭 I’m currently working on an ecosystem of tools ([library](https://www.npmjs.com/package/scene-preset) and [framework](https://github.com/LuisArmando-TestCoder/three-nextjs)) to ease the development of 3D scenes on the web for everybody to use
 
-#### Skills: 
+#### Skills 🛠
 - JS 
 - TS 
 - Python 
