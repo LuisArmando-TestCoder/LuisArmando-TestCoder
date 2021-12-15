@@ -15,7 +15,7 @@ Also, I am crazy about ***automation***, easy to use ***builder tools*** and ***
 ## Skills 🛠
 | 🍓 | 🍍 | 🍉 | 🍊 | 🥝 |
 |---|---|---|---|---|
-| GLSL | Three.js | Unreal Engine 5 | Unity 3D | Game Maker Studio 2 |
+| GLSL | Three.js | Unreal Engine 5 | Unity | Game Maker Studio 2 |
 | JS | Go | Python | C++ | C# |
 | SCSS | TS | LESS | HTML | CSS |
 | React.js | Vue.js | Gatsby | Next.js | Recoil.js |
