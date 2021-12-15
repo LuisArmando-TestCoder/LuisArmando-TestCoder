@@ -1,8 +1,14 @@
-### Hi, I profess 👉 my hobby
+### Hi, I profess 👉 My hobby 👉 Creating
 #### LuisArmando-TestCoder
-![LuisArmando-TestCoder](https://luisarmando-testcoder.github.io/keeper/sprites/Screenshot_6.png)
+![LuisArmando-TestCoder](https://luisarmando-testcoder.github.io/keeper/sprites/Screenshot_9.png)
 
-I like ***3D*** and ***The Web***
+I 💘 create ***3D*** for the ***Web***
+
+And believe on the impact of web builders, and dream on the impact of cross device 3D website builders. We humans, need to optimize our interactions with massive amounts of information
+
+### More About 🧔 👈:
+
+🔭 I’m currently working on an ecosystem of tools ([library](https://www.npmjs.com/package/scene-preset) and [framework](https://github.com/LuisArmando-TestCoder/three-nextjs)) to ease the development of 3D scenes on the web for everybody to use
 
 #### Skills: 
 - JS 
@@ -30,8 +36,3 @@ I like ***3D*** and ***The Web***
 - Unity 3D 
 - Three.js 
 - GLSL
-
-#### More About 🧔 👈:
-- 🔭 I’m currently working on an ecosystem of tools ([library](https://www.npmjs.com/package/scene-preset) and [framework](https://github.com/LuisArmando-TestCoder/three-nextjs)) to ease the development of 3D scenes on the web for everybody to use
-
-- 💡 I do believe on the impact of web builders, and dream on the impact of cross device 3D website builders. We humans, need to optimize our interactions with massive amounts of information
