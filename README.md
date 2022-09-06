@@ -21,7 +21,7 @@ Also, I am crazy about ***automation***, easy to use ***builder tools***, ***pro
 | GLSL | Three.js | Unreal Engine 5 | Unity | Game Maker Studio 2 |
 | JS | Go | Python | C++ | C# |
 | SCSS | TS | LESS | HTML | CSS |
-| React.js | Recoil.js | Vue.js | Next.js | Gatsby |
+| React.js | Svelte | Vue.js | Next.js | Gatsby |
 | GLSL | GSAP | Google Analytics | Storybook | Jest |
 | Node.js | GraphQL | Express | MongoDB | Socket.io |
 | Git | Jira | FL Studio | Illustrator | Figma |
